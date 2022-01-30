@@ -1,6 +1,7 @@
-## Welcome to Kiyan's Github Page
+# Welcome to Kiyan's Github Page
 
-## Growth Mindset
+Hi! My name is Kiyan 
+### Growth Mindset
 
 Growth mindset is a mindset that allows for growth rather than remaining the same over time with new experiences. It can be easy to fall into a fixed mindset because it's easy. It's easy to avoid tough situations, not put in effort, and feel threatened by other's success. However, this can lead to people being unhappy and unpassionate. With a growth mindset, you welcome challenges and you learn from them. You will win, you will lose, but that mentality leads to success. Ultimately, a growth mindset will lead to greater rewards in life, although not immediately. 
 
