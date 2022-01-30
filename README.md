@@ -1,35 +1,11 @@
 ## Welcome to Kiyan's Github Page
 
+## Growth Mindset
 
+Growth mindset is a mindset that allows for growth rather than remaining the same over time with new experiences. It can be easy to fall into a fixed mindset because it's easy. It's easy to avoid tough situations, not put in effort, and feel threatened by other's success. However, this can lead to people being unhappy and unpassionate. With a growth mindset, you welcome challenges and you learn from them. You will win, you will lose, but that mentality leads to success. Ultimately, a growth mindset will lead to greater rewards in life, although not immediately. 
 
-### Markdown
+There are a few ways I've learned to keep myself in a growth mindset:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kiyansheikh/kiyansheikh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Taking a step back to catch my breath, calming myself, and re-approaching the task at hand.
+- Thinking to myself, "I'm giving up too easily. I'd rather put in a little more effort to get that accomplishment than give up and feel regret."
+- Viewing others as passionate, inspiring individuals that want to learn, just like me.
